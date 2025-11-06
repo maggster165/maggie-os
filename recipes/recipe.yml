@@ -26,6 +26,7 @@ modules:
         - micro
         - starship
         - steam
+        - fish
     remove:
       packages:
 
