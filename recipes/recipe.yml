@@ -23,7 +23,8 @@ modules:
         - atim/starship
     install:
       packages:
-        - micro
+        - wine
+        - helix
         - starship
         - steam
         - fish
